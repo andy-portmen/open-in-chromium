@@ -1,7 +1,7 @@
 {
   "name": "Open in Chromium Browser",
   "description": "Open the current tab or all tabs in Chromium browser or send links to Chromium from right-click context menu.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "manifest_version": 3,
   "permissions": [
     "storage",
